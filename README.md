@@ -1,4 +1,4 @@
-# httpServereUpload
+# httpServerUpload
 http server file upload mini
 
 on far pc runing server side upload 
